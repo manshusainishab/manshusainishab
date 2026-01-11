@@ -38,7 +38,7 @@ Currently diving deep into:
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,spring,nodejs,express,react,docker" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,spring,nodejs,express,react" alt="Languages & Frameworks" />
 </p>
 
 ### **Databases & Cloud**
@@ -48,7 +48,7 @@ Currently diving deep into:
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,Apache Superset,Docker" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,docker" alt="Tools & Platforms" />
 </p>
 
 </div>
