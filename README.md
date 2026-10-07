@@ -89,7 +89,7 @@ I write on **[Medium](https://medium.com/@manshusainishab)** about things I had 
 
 **Languages** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=java,python,ts,js" height="32" />
 
-**Backend & Frontend** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,vue,vite,tailwind" height="32" />
+**Backend & Frontend** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,vite,tailwind" height="32" />
 
 **ML & Data** &nbsp;·&nbsp; <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgresql,mongodb,redis" height="32" />
 
